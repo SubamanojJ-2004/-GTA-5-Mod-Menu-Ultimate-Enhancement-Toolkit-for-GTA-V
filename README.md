@@ -80,7 +80,3 @@ Future updates may include:
 - 🎨 UI redesigns & themes
 - 📱 Expanded compatibility support
 - 🛠️ Additional customization
-
----
-
-> **⚠️ Disclaimer:** This mod is intended for **single-player / Story Mode** use only. Use in GTA Online may result in account penalties.
